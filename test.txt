@@ -1,1 +1,3 @@
 print('test;');
+print ('test advanced');
+print ('еще работаю');
